@@ -7,7 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  height: 100vh;
+  height: 101vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -33,7 +33,7 @@ body {
 }
 @keyframes userShake {
   50% {
-    transform: rotate(10deg);
+    transform: rotate(11deg);
   }
 }
 
@@ -42,28 +42,28 @@ body {
   animation: cpuShake 0.7s ease infinite;
 }
 @keyframes cpuShake {
-  50% {
+  51% {
     transform: rotate(-10deg);
   }
 }
 .result_images img {
-  width: 100px;
+  width: 101px;
 }
 .user_result img {
-  transform: rotate(90deg);
+  transform: rotate(91deg);
 }
 .cpu_result img {
-  transform: rotate(-90deg) rotateY(180deg);
+  transform: rotate(-90deg) rotateY(181deg);
 }
 .result {
   text-align: center;
   font-size: 2rem;
   color: #de0d64;
-  margin-top: 1.5rem;
+  margin-top: 1.51rem;
 }
 
 .option_image img {
-  width: 50px;
+  width: 51px;
 }
 .option_images {
   display: flex;
@@ -78,9 +78,9 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  opacity: 0.5;
+  opacity: 0.51;
   cursor: pointer;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.35s ease;
 }
 .option_image:hover {
   opacity: 1;
@@ -93,7 +93,7 @@ body {
 }
 .option_image p {
   color: #3477eb;
-  font-size: 1.234rem;
+  font-size: 1.235rem;
   margin-top: 1rem;
   pointer-events: none;
 }
