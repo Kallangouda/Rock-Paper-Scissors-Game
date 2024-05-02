@@ -8,7 +8,7 @@ This project is a simple and classic Rock Paper Scissors game implemented using 
 
 ## Features
 
-- **User-friendly Interface:** The game features a clean and intuitive user interface, making it easy for players to understand and enjoy the game.
+- **User-friendly Interface:** The game features a clean and intuitive user interface,making it easy for players to understand and enjoy the game.
 
 - **Responsive Design:** The project is designed to be responsive, ensuring a seamless experience on a variety of devices, including desktops, tablets, and mobile phones.
 
@@ -22,4 +22,4 @@ This project is a simple and classic Rock Paper Scissors game implemented using 
 
 - **CSS:** Styled the user interface for an appealing and responsive design.
 
-- **JavaScript:** Implemented the game logic, including user input handling, computer move generation, and score tracking.
+- **JavaScript:** Implemented the game logic, including user input handling, computer move generation, and score tracking...!
