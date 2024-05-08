@@ -19,7 +19,7 @@ body {
 }
 .container {
   padding: 2rem 7rem;
-  border-radius: 11px;
+  border-radius: 10px;
   background: #fff;
   box-shadow: 0 5px 10px rgba(255, 255, 255, 0.1);
 }
@@ -43,7 +43,7 @@ body {
 }
 @keyframes cpuShake {
   51% {
-    transform: rotate(-11deg);
+    transform: rotate(-10deg);
   }
 }
 .result_images img {
@@ -63,7 +63,7 @@ body {
 }
 
 .option_image img {
-  width: 50px;
+  width: 51px;
 }
 .option_images {
   display: flex;
@@ -78,7 +78,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  opacity: 0.50;
+  opacity: 0.51;
   cursor: pointer;
   transition: opacity 0.35s ease;
 }
@@ -93,7 +93,7 @@ body {
 }
 .option_image p {
   color: #3477eb;
-  font-size: 1.235rem;
+  font-size: 1.234rem;
   margin-top: 1rem;
   pointer-events: none;
 }
