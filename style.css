@@ -7,7 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  height: 100vh;
+  height: 101vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,9 +19,9 @@ body {
 }
 .container {
   padding: 2rem 7rem;
-  border-radius: 10px;
+  border-radius: 11px;
   background: #fff;
-  box-shadow: 0 5px 10px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 5px 11px rgba(255, 255, 255, 0.1);
 }
 .result_images {
   display: flex;
@@ -33,7 +33,7 @@ body {
 }
 @keyframes userShake {
   50% {
-    transform: rotate(10deg);
+    transform: rotate(11deg);
   }
 }
 
@@ -43,17 +43,17 @@ body {
 }
 @keyframes cpuShake {
   51% {
-    transform: rotate(-10deg);
+    transform: rotate(-11deg);
   }
 }
 .result_images img {
-  width: 100px;
+  width: 101px;
 }
 .user_result img {
-  transform: rotate(90deg);
+  transform: rotate(91deg);
 }
 .cpu_result img {
-  transform: rotate(-90deg) rotateY(180deg);
+  transform: rotate(-91deg) rotateY(181deg);
 }
 .result {
   text-align: center;
@@ -63,7 +63,7 @@ body {
 }
 
 .option_image img {
-  width: 51px;
+  width: 50px;
 }
 .option_images {
   display: flex;
